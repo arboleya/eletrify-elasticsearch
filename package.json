@@ -1,0 +1,30 @@
+{
+  "name": "electrify-elasticsearch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "ElasticSearch plugin for Electrify",
+  "author": "Anderson Arboleya <anderson@arboleya.me>",
+  "license": "MIT",
+  "dependencies": {
+    "adm-zip": "^0.4.7",
+    "lodash": "^3.10.1",
+    "shelljs": "^0.5.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arboleya/electrify-elasticsearch"
+  },
+  "keywords": [
+    "electrify",
+    "electron",
+    "meteor",
+    "packager",
+    "desktop",
+    "database",
+    "elastic-search"
+  ],
+  "bugs": {
+    "url": "https://github.com/arboleya/electrify-elasticsearch/issues"
+  },
+  "homepage": "https://github.com/arboleya/electrify-elasticsearch"
+}
